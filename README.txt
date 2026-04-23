@@ -1,0 +1,6 @@
+-The notebooks cars.ipynb and subway.ipynb are alredy run, so they contain the output files.
+-the notebooks simply shows how to use the hand-made library to compute the trajectories and show intermediate plots, while they have no comments about the results (see the report for them).
+-All the notebooks' outputs are saved in the realtive directories
+-the directory "sources" contains all files used by the notebooks, without them they cannot be run again.
+-the directory "REPORT" contain the pdf and can be used as stand-alone to present the pdf, that contains relative paths to all the files saved in it.
+-the report prensents some results, while the notebooks contain even more video and images; not all of them are meaningful, but the video are worth a watch (for exmaple in the cars notebbok, the trails of the superblobs is not shown while in the report is not mentioned).
