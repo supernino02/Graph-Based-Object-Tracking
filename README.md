@@ -9,7 +9,6 @@ The tracking system is tested on road traffic (cars) and crowded pedestrian (sub
 Here are some examples of the final tracked paths from the subway sequence:
 
 ![Tracked Subway Path 1](subway_results/paths/img1.jpg)
-![Tracked Subway Path 2](subway_results/paths/img2.jpg)
 ![Tracked Subway Path 3](subway_results/paths/img3.jpg)
 
 ## Methodology
