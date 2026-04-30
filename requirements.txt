@@ -1,0 +1,8 @@
+numpy
+scikit-image
+tqdm
+matplotlib
+scipy
+networkx
+ipython
+jupyter
